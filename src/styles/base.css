@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  width: 100%;
 }
 *,
 *::before,
@@ -19,4 +20,51 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  margin: 15px;
+}
+
+img.album-cover {
+  padding: 20px;
+  height: auto;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.album-cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+}
+
+.album-name {
+  display: flex;
+  font-size: 2rem;
+  margin: 0px;
+  padding: 10px;
+  justify-content: center;
+  border-top: black 1px solid;
+  width: 100%;
+  text-align: center;
+}
+
+.albums {
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  width: 300px;
+  justify-content: center;
+  align-items: flex-end;
+  border: black 1px solid;
+  margin: 20px;
+  padding: 0px;
 }
