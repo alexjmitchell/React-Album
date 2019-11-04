@@ -1,5 +1,5 @@
 {
-  "albumnames": [
+  "photoAlbums": [
     {
       "id": 1,
       "name": "My Hero Academia",
@@ -16,7 +16,7 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_Code_Geass.png"
     },
     {
-      "name": "Haikyuu",
+      "name": "Haikyuu!!!",
       "id": 4,
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Haikyuu%21%21_Logo.png"
     },
@@ -35,219 +35,219 @@
   "images": [
     {
       "id": 1,
-      "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-1",
-      "albumnameId": 1
+      "url": "https://i.etsystatic.com/16230907/r/il/8c5a8c/1694105809/il_570xN.1694105809_s860.jpg",
+      "name": "Izuku Midoriya",
+      "photoAlbumId": 1
     },
     {
       "id": 2,
-      "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-2",
-      "albumnameId": 1
+      "url": "https://images-na.ssl-images-amazon.com/images/I/713RjtemtkL._AC_SX569_.jpg",
+      "name": "Katsuki Bakugou",
+      "photoAlbumId": 1
     },
     {
       "id": 3,
-      "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-3",
-      "albumnameId": 1
+      "url": "https://images-na.ssl-images-amazon.com/images/I/71OdfFM5VvL._SL1042_.jpg",
+      "name": "All Might",
+      "photoAlbumId": 1
     },
     {
       "id": 4,
-      "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-4",
-      "albumnameId": 1
+      "url": "https://ih1.redbubble.net/image.698695386.8280/flat,1000x1000,075,f.u2.jpg",
+      "name": "Shoto Todoroki",
+      "photoAlbumId": 1
     },
     {
       "id": 5,
-      "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-5",
-      "albumnameId": 1
+      "url": "http://pm1.narvii.com/6890/a09b35a834e071604e9cb940331357e1f710e27ar1-2048-1191v2_uhq.jpg",
+      "name": "Tenya Iida",
+      "photoAlbumId": 1
     },
     {
       "id": 6,
-      "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-6",
-      "albumnameId": 1
+      "url": "https://static.myfigurecollection.net/pics/figure/large/803389.jpg?rev=1549126575",
+      "name": "Kirishima Eijirou",
+      "photoAlbumId": 1
     },
     {
       "id": 7,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       "name": "img-7",
-      "albumnameId": 2
+      "photoAlbumId": 2
     },
     {
       "id": 8,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       "name": "img-8",
-      "albumnameId": 2
-    },
-    {
-      "id": 8,
-      "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-8",
-      "albumnameId": 2
+      "photoAlbumId": 2
     },
     {
       "id": 9,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-9",
-      "albumnameId": 2
+      "name": "img-8",
+      "photoAlbumId": 2
     },
     {
       "id": 10,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-10",
-      "albumnameId": 2
+      "name": "img-9",
+      "photoAlbumId": 2
     },
     {
       "id": 11,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-11",
-      "albumnameId": 2
+      "name": "img-10",
+      "photoAlbumId": 2
     },
     {
       "id": 12,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-12",
-      "albumnameId": 3
+      "name": "img-11",
+      "photoAlbumId": 2
     },
     {
       "id": 13,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-13",
-      "albumnameId": 3
+      "name": "img-12",
+      "photoAlbumId": 3
     },
     {
       "id": 14,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-14",
-      "albumnameId": 3
+      "name": "img-13",
+      "photoAlbumId": 3
     },
     {
       "id": 15,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-15",
-      "albumnameId": 3
+      "name": "img-14",
+      "photoAlbumId": 3
     },
     {
       "id": 16,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-16",
-      "albumnameId": 3
+      "name": "img-15",
+      "photoAlbumId": 3
     },
     {
       "id": 17,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-17",
-      "albumnameId": 3
+      "name": "img-16",
+      "photoAlbumId": 3
     },
     {
       "id": 18,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-18",
-      "albumnameId": 4
+      "name": "img-17",
+      "photoAlbumId": 3
     },
     {
       "id": 19,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-19",
-      "albumnameId": 4
+      "name": "img-18",
+      "photoAlbumId": 4
     },
     {
       "id": 20,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-20",
-      "albumnameId": 4
+      "name": "img-19",
+      "photoAlbumId": 4
     },
     {
       "id": 21,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-21",
-      "albumnameId": 4
+      "name": "img-20",
+      "photoAlbumId": 4
     },
     {
       "id": 22,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-22",
-      "albumnameId": 4
+      "name": "img-21",
+      "photoAlbumId": 4
     },
     {
       "id": 23,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-23",
-      "albumnameId": 4
+      "name": "img-22",
+      "photoAlbumId": 4
     },
     {
       "id": 24,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-24",
-      "albumnameId": 5
+      "name": "img-23",
+      "photoAlbumId": 4
     },
     {
       "id": 25,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-25",
-      "albumnameId": 5
+      "name": "img-24",
+      "photoAlbumId": 5
     },
     {
       "id": 26,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-26",
-      "albumnameId": 5
+      "name": "img-25",
+      "photoAlbumId": 5
     },
     {
       "id": 27,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-27",
-      "albumnameId": 5
+      "name": "img-26",
+      "photoAlbumId": 5
     },
     {
       "id": 28,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-28",
-      "albumnameId": 5
+      "name": "img-27",
+      "photoAlbumId": 5
     },
     {
       "id": 29,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-29",
-      "albumnameId": 5
+      "name": "img-28",
+      "photoAlbumId": 5
     },
     {
       "id": 30,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-30",
-      "albumnameId": 6
+      "name": "img-29",
+      "photoAlbumId": 5
     },
     {
       "id": 31,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-31",
-      "albumnameId": 6
+      "name": "img-30",
+      "photoAlbumId": 6
     },
     {
       "id": 32,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-32",
-      "albumnameId": 6
+      "name": "img-31",
+      "photoAlbumId": 6
     },
     {
       "id": 33,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-33",
-      "albumnameId": 6
+      "name": "img-32",
+      "photoAlbumId": 6
     },
     {
       "id": 34,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      "name": "img-34",
-      "albumnameId": 6
+      "name": "img-33",
+      "photoAlbumId": 6
     },
     {
       "id": 35,
       "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "name": "img-34",
+      "photoAlbumId": 6
+    },
+    {
+      "id": 36,
+      "url": "https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       "name": "img-35",
-      "albumnameId": 6
+      "photoAlbumId": 6
     }
   ]
 }

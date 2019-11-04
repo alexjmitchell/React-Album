@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  padding: 30px;
+  grid-column: span 10;
+  margin: 0 0 2px 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.main {
+  background: rgba(0, 0, 0, 0.3);
+}
+.album {
+  background: rgba(0, 0, 0, 0.3);
+  font-size: 3rem;
+}
+.image {
+  background: rgba(0, 0, 0, 0);
+}

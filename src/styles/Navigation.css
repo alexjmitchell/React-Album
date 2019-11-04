@@ -1,0 +1,13 @@
+.nav {
+  border-right: 2px solid rgb(128, 128, 138);
+  width: 200px;
+  height: 100vh;
+  line-height: 50px;
+}
+
+.navigation {
+  list-style: none;
+}
+
+.nav-item {
+}

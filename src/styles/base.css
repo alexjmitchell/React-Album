@@ -28,43 +28,35 @@ img {
   margin: 15px;
 }
 
-img.album-cover {
-  padding: 20px;
-  height: auto;
-  margin: auto;
-}
-
 a {
   text-decoration: none;
   color: black;
 }
 
-.album-cards {
-  display: flex;
-  flex-wrap: wrap;
-  align-content: center;
-  justify-content: center;
+.album-list {
+  text-align: left;
+}
+.album-title {
+  text-align: left;
+  padding: 5px;
 }
 
-.album-name {
-  display: flex;
-  font-size: 2rem;
-  margin: 0px;
-  padding: 10px;
-  justify-content: center;
-  border-top: black 1px solid;
-  width: 100%;
+.album-pagelayout {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.album-pics {
+  grid-column: span 5;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 320px);
+  justify-items: center;
+}
+
+.album-pics h3 {
   text-align: center;
 }
-
-.albums {
-  display: flex;
-  flex-direction: column;
-  height: 300px;
-  width: 300px;
-  justify-content: center;
-  align-items: flex-end;
-  border: black 1px solid;
-  margin: 20px;
-  padding: 0px;
+.arrow {
+  float: left;
 }
