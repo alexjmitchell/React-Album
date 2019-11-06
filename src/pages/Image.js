@@ -22,15 +22,12 @@ function Image(props) {
   const id = props.match.params.id
 
   const [image, setImage] = useState([])
-  
+
   useEffect(() => {
-    axios.get("/images/" + id).then(
-      response => {
-        setImage(response.data)
-      },
-      [id]
-    )
-  })
+    axios.get("/images/" + id).then(response => {
+      setImage(response.data)
+    })
+  }, [id])
 
   return (
     <>
